@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
   padding: 20px;
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 input[type="checkbox"] {
   transform: scale(1.5);
@@ -18,7 +18,7 @@ input[type="checkbox"] {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN";
     padding: 20px;
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
 
   input[type="checkbox"] {
