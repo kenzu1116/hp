@@ -5,25 +5,24 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
-  padding:20px;
-  font-size: 1rem;
+  padding: 20px;
+  font-size: 1.2rem;
 }
-input[type=checkbox] {
+input[type="checkbox"] {
   transform: scale(1.5);
   margin: 0 6px 0 0;
 }
 
-@media screen and (max-width:1024px){
-body {
-  margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
-  padding: 20px;
-  font-size: 2.5rem;
-}
+@media screen and (max-width: 1024px) {
+  body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+    padding: 20px;
+    font-size: 2.5rem;
+  }
 
-
-input[type=checkbox] {
-  transform: scale(3);
-  margin: 0 50px 0 0;
-}
+  input[type="checkbox"] {
+    transform: scale(3);
+    margin: 0 50px 0 0;
+  }
 }
